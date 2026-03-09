@@ -1,5 +1,5 @@
 {
-  "name": "Kalkulačka",
-  "description": "Jednoduchá webová kalkulačka se základními funkcemi.",
+  "name": "Calculator",
+  "description": "Simple web calculator with basic functions.",
   "requestFramePermissions": []
 }
